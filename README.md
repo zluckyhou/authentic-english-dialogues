@@ -3,7 +3,7 @@ This book is designed to help you master authentic English expressions through p
 
 ## Table of contents
 
-Introduction: How to Use This Book
+### [Introduction: How to Use This Book](dialogues/introduction.md)
 
 Part I: Everyday Life
 
