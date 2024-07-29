@@ -5,7 +5,7 @@ This book is designed to help you master authentic English expressions through p
 
 ### [Introduction: How to Use This Book](dialogues/introduction.md)
 
-Part I: Everyday Life
+### Part I: Everyday Life
 
 1. Daily Routines
    - Waking up and morning routine
@@ -63,7 +63,7 @@ Part I: Everyday Life
    - Grooming and hygiene
    - Pet sitting
 
-Part II: Social and Professional Life
+### Part II: Social and Professional Life
 
 7. Social Interactions
    - Making small talk
@@ -105,7 +105,7 @@ Part II: Social and Professional Life
     - Online courses
     - Mindfulness and meditation
 
-Part III: Travel and Transportation
+### Part III: Travel and Transportation
 
 11. Planning and Booking Travel
     - Researching destinations
@@ -136,7 +136,7 @@ Part III: Travel and Transportation
     - Road trips
     - Carpooling
 
-Part IV: Culture and Leisure
+### Part IV: Culture and Leisure
 
 15. Cultural Experiences
     - Learning about local customs
@@ -170,7 +170,7 @@ Part IV: Culture and Leisure
     - Visiting museums
     - Outdoor recreational activities
 
-Part V: Services and Community
+### Part V: Services and Community
 
 19. Public Services
     - Visiting a post office
@@ -195,7 +195,7 @@ Part V: Services and Community
     - Engaging in local politics
     - Joining community groups
 
-Part VI: Relationships and Family
+### Part VI: Relationships and Family
 
 22. Family Life
     - Family gatherings
@@ -213,7 +213,7 @@ Part VI: Relationships and Family
     - Celebrating anniversaries
     - Maintaining long-distance relationships
 
-Part VII: Practical Matters
+### Part VII: Practical Matters
 
 24. Finance and Budgeting
     - Creating a budget
@@ -234,7 +234,7 @@ Part VII: Practical Matters
     - Legal documentation
     - Rights and responsibilities
 
-Part VIII: Modern Life and Society
+### Part VIII: Modern Life and Society
 
 26. Environmental Awareness
     - Recycling and waste management
@@ -253,4 +253,4 @@ Part VIII: Modern Life and Society
     - Understanding media bias
     - Fact-checking information
 
-Conclusion: Continuing Your English Journey
+### Conclusion: Continuing Your English Journey
