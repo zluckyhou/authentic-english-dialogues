@@ -253,4 +253,4 @@ This book is designed to help you master authentic English expressions through p
     - Understanding media bias
     - Fact-checking information
 
-### Conclusion: Continuing Your English Journey
+### [Conclusion: Continuing Your English Journey](dialogues/Conclusion.md)
